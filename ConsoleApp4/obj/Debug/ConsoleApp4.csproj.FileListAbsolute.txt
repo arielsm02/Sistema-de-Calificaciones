@@ -1,0 +1,21 @@
+C:\Users\Ariel\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\Ariel\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\Ariel\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\Ariel\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csprojResolveAssemblyReference.cache
+C:\Users\Ariel\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\Ariel\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
+C:\Users\Ariel\Desktop\OTRO\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\Ariel\Desktop\OTRO\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\Ariel\Desktop\OTRO\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\Ariel\Desktop\OTRO\ConsoleApp4\obj\Debug\ConsoleApp4.csprojResolveAssemblyReference.cache
+C:\Users\Ariel\Desktop\OTRO\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\Desktop\OTRO\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\Ariel\Desktop\OTRO\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
+Z:\Documentos\C ++ todo\Proyecto Final\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+Z:\Documentos\C ++ todo\Proyecto Final\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+Z:\Documentos\C ++ todo\Proyecto Final\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+Z:\Documentos\C ++ todo\Proyecto Final\ConsoleApp4\obj\Debug\ConsoleApp4.csprojResolveAssemblyReference.cache
+Z:\Documentos\C ++ todo\Proyecto Final\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+Z:\Documentos\C ++ todo\Proyecto Final\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+Z:\Documentos\C ++ todo\Proyecto Final\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
